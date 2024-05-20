@@ -2,7 +2,8 @@
 
 Hi 👋, I'm Aakash Gupta
 
-![Capture](https://github.com/aakaaaash/Portfolio/assets/128457043/95386ffb-fdec-47d7-be11-a57f40410d17)
+![portfolio](https://github.com/aakaaaash/Portfolio/assets/128457043/626342b4-7692-4c14-8f5e-99889734b3b6)
+
 
 A passionate Full-Stack Developer from India.
 
